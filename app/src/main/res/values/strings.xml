@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GameCatalogue</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_detail">Detail</string>
+    <string name="game_title">Title</string>
+    <string name="game_release">Release</string>
+    <string name="game_rating">Rating</string>
+    <string name="game_website">Website</string>
+    <string name="game_desc">Description</string>
+    <string name="favbutton">Fav Button</string>
+    <string name="no_data">No Favorite Data</string>
+    <string name="something_wrong">Oops.. something went wrong</string>
+    <string name="poster">poster</string>
+    <string name="rama_febriansyah">Rama Febriansyah</string>
+    <string name="bekasi">Bekasi</string>
+    <string name="image">image</string>
+</resources>
