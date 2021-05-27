@@ -1,4 +1,0 @@
-int id no_data_fav 0x7e010000
-int id pgr_bar_fav 0x7e010001
-int id rv_fav_fragment 0x7e010002
-int layout activity_favorite 0x7e020000
