@@ -1,0 +1,4 @@
+com/example/gamecatalogue/favorite/databinding/ActivityFavoriteBinding.java
+ com.example.gamecatalogue.favorite.databinding.ActivityFavoriteBinding
+com/example/gamecatalogue/favorite/BuildConfig.java
+ com.example.gamecatalogue.favorite.BuildConfig

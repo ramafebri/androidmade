@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">GameCatalogue</string>
+    <string name="favbutton">Fav Button</string>
+    <string name="game_desc">Description</string>
+    <string name="game_rating">Rating</string>
+    <string name="game_release">Release</string>
+    <string name="game_title">Title</string>
+    <string name="game_website">Website</string>
+    <string name="no_data">No Favorite Data</string>
+    <string name="poster">poster</string>
+    <string name="something_wrong">Oops.. something went wrong</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+</resources>

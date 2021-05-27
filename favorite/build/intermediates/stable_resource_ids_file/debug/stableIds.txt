@@ -1,0 +1,4 @@
+com.example.gamecatalogue:layout/activity_favorite = 0x7e020000
+com.example.gamecatalogue:id/pgr_bar_fav = 0x7e010001
+com.example.gamecatalogue:id/rv_fav_fragment = 0x7e010002
+com.example.gamecatalogue:id/no_data_fav = 0x7e010000

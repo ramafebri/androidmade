@@ -1,0 +1,14 @@
+com/example/gamecatalogue/databinding/ViewErrorBinding.java
+ com.example.gamecatalogue.databinding.ViewErrorBinding
+com/example/gamecatalogue/databinding/ActivityDetailBinding.java
+ com.example.gamecatalogue.databinding.ActivityDetailBinding
+com/example/gamecatalogue/databinding/FragmentFavoriteBinding.java
+ com.example.gamecatalogue.databinding.FragmentFavoriteBinding
+com/example/gamecatalogue/BuildConfig.java
+ com.example.gamecatalogue.BuildConfig
+com/example/gamecatalogue/databinding/ActivityMainBinding.java
+ com.example.gamecatalogue.databinding.ActivityMainBinding
+com/example/gamecatalogue/databinding/FragmentHomeBinding.java
+ com.example.gamecatalogue.databinding.FragmentHomeBinding
+com/example/gamecatalogue/databinding/FragmentProfileBinding.java
+ com.example.gamecatalogue.databinding.FragmentProfileBinding
