@@ -43,4 +43,9 @@ class FavoriteActivity : AppCompatActivity() {
             adapter = gameAdapter
         }
     }
+
+    override fun onDestroy() {
+        super.onDestroy()
+        binding.rvFavFragment.adapter = null
+    }
 }
